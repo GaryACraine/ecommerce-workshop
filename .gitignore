@@ -1,0 +1,5 @@
+node_modules
+.sst/*
+.env
+*.d.ts
+packages/web/*.d.ts
