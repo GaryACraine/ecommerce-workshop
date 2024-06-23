@@ -12,6 +12,8 @@
 - [pnpm][pnpm] v8 or greater
 - [sst][sst] ion (0.399 or greater)
 
+## AWS Regional requirement - US-EAST-1 for ai models
+
 All of these must be available in your `PATH`. To verify things are set up
 properly, you can run this:
 
